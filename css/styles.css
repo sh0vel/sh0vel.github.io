@@ -9,7 +9,8 @@
         table-layout: fixed;
       }
 
-      .child {
+
+      .center-text {
         display:table-cell;
         vertical-align:middle;
         text-align:center;
@@ -17,6 +18,24 @@
 
       #images{
         max-height: 500px;
+      }
+
+.btn-lg{
+  background: transparent;
+  border: none;
+}
+
+      .btn-git{
+        max-height: 45px;
+      }
+
+      .btn-play{
+        height: 45px;
+        width: 125px;
+      }
+
+      .margin-lft45{
+        margin-left: 90px;
       }
 
       #shovondroid{
