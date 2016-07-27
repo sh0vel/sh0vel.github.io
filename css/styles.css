@@ -1,0 +1,59 @@
+      .section-about{
+        height:100vh;
+        background-color:#009688;
+      }
+
+
+      .parent {
+        display: table;
+        table-layout: fixed;
+      }
+
+      .child {
+        display:table-cell;
+        vertical-align:middle;
+        text-align:center;
+      }
+
+      #images{
+        max-height: 500px;
+      }
+
+      #shovondroid{
+       /* position:absolute;
+
+        margin-top:25vh;
+        width:20%;
+        max-height: 60vh;
+        max-width: 40vh;*/
+        max-height: 80vh;
+        display:block;
+        position:absolute;
+        left:0;
+        right:0;
+        bottom:0;
+        margin:auto;
+        padding-bottom: 35vh;
+      }
+      .img-div{
+
+      }
+      #header{
+
+        padding-top:60vh;
+
+      }
+      .section-about h1{
+
+      }
+      .section-works{
+        background-color:#80CBC4;
+        padding-top:50px;
+        padding-bottom:50px;
+
+      }
+      #portfolio-h{
+        text-align: center;
+        font-size:15px;
+        margin-top:22vh;
+      }
