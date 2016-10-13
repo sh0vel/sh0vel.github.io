@@ -67,11 +67,6 @@
     background-repeat: no-repeat;
 }
 
-footer {
-    background-color: aquamarine;
-    height: 15vh;
-}
-
 #bar {
     color: aliceblue
 }
@@ -79,4 +74,25 @@ footer {
 .body {
     position: absolute;
     font-size: 2em;
+    margin-top: 100px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.linkitem {
+    padding-top: 20px;
+}
+
+.linkitem p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    height: 100px;
+    overflow: auto;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.linkitem img {
+    float: left;
 }
