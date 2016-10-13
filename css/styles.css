@@ -3,13 +3,12 @@
     background-image: url("/images/bg4.jpg");
     background-size: 100% 115%;
     background-repeat: no-repeat;
-    
     padding-top: 1px;
 }
 
 .about {
     padding-left: 25px;
-    margin-top:150px;
+    margin-top: 150px;
     position: absolute;
     bottom: 0;
     margin-bottom: 45px;
@@ -17,9 +16,7 @@
     margin-right: 1400px;
 }
 
-
-
-.name{
+.name {
     border-right-style: solid;
     border-right-color: aquamarine;
     border-top-style: solid;
@@ -39,10 +36,9 @@
     margin-top: -50px;
 }
 
-
 #hello {
     font-family: 'Roboto', sans-serif;
-    font-size:18px;
+    font-size: 18px;
     margin-top: -13px;
     margin-left: 40px;
     padding-left: 10px;
@@ -51,23 +47,24 @@
     border-left-color: aquamarine;
     border-top-style: solid;
     border-top-color: aquamarine;
-    
 }
 
 .links {
     font-family: 'Roboto', sans-serif;
-    position: relative
-    font-size: 20px;
+    position: relative font-size: 20px;
     background-color: aquamarine;
     bottom: -45px;
 }
 
-.links tc{
+.links tc {
     padding: 5px;
 }
 
 .pagetwo {
     height: 100vh;
+    background-image: url("/images/bg3.jpg");
+    background-size: 100% 115%;
+    background-repeat: no-repeat;
 }
 
 footer {
@@ -77,4 +74,9 @@ footer {
 
 #bar {
     color: aliceblue
+}
+
+.body {
+    position: absolute;
+    font-size: 2em;
 }
