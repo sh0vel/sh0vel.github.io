@@ -67,10 +67,6 @@
     background-repeat: no-repeat;
 }
 
-#bar {
-    color: aliceblue
-}
-
 .body {
     position: absolute;
     font-size: 2em;
@@ -103,7 +99,7 @@
         padding-left: 15px;
         margin-top: 150px;
         position: absolute;
-        margin-bottom: 70px;
+        margin-bottom: 300px;
         margin-top: -35px;
         float: left;
     }
