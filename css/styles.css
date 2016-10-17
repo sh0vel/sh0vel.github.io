@@ -67,12 +67,12 @@
     background-repeat: no-repeat;
 }
 
-.body {
-    position: absolute;
+.pg2body {
+    padding-top: 100px;
     font-size: 2em;
-    margin-top: 100px;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px
 }
 
 .linkitem {
@@ -95,6 +95,9 @@
 }
 
 @media only screen and (max-width: 500px) {
+    .firstpage {
+        background-size: 110% 130%;
+    }
     .about {
         padding-left: 15px;
         margin-top: 150px;
